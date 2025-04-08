@@ -54,6 +54,7 @@ ChatBot-Backend/
    ```
 
 4. **Start the server**
+
    ```bash
    node index.js
    ```
@@ -62,7 +63,7 @@ ChatBot-Backend/
 
 ## 🖼️ Screenshots
 
-![alt text](image.png)
+![Homepage](<image.png>)
 
 ---
 
@@ -91,5 +92,5 @@ Created by [Bhawesh Panwar](https://github.com/bhaweshpanwar) — feel free to r
 
 ```
 
-```
+
 ````
