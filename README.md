@@ -1,8 +1,3 @@
-Awesome! Since you’ve built a **ChatBot using Google Generative AI**, here’s a neat and professional `README.md` template for your project. You can modify the details as needed:
-
----
-
-````md
 # 🤖 ChatBot-Backend
 
 A conversational AI chatbot powered by **Google Generative AI**, designed to understand natural language queries and respond intelligently using a custom prompt and knowledge base.
@@ -31,6 +26,7 @@ ChatBot-Backend/
 ├── package.json            # Dependencies and scripts
 └── .gitignore              # Git ignored files
 ```
+
 ````
 
 ---
@@ -50,7 +46,7 @@ ChatBot-Backend/
    npm install
    ```
 
-3. **Configure Environment**  
+3. **Configure Environment**
    Create a `.env` file and add your API key:
 
    ```env
@@ -96,3 +92,4 @@ Created by [Bhawesh Panwar](https://github.com/bhaweshpanwar) — feel free to r
 ```
 
 ```
+````
